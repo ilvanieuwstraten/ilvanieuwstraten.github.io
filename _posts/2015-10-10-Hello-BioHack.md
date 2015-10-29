@@ -17,4 +17,12 @@ I am hungry for knowledge. I am increadably curious to find out what there is po
 
 I will go hands on and experiment to discover BioHacking!
 
-add experiment photos here
+
+![Screen Shot 2015-10-23 at 00.28.24.png](/images/biohack.jpg)
+
+![Screen Shot 2015-10-23 at 00.28.39.png](/images/biohack.jpg)
+
+
+![Screen Shot 2015-10-23 at 00.28.53.png](/images/biohack.jpg)
+![[Screen Shot 2015-10-23 at 00.28.39.png]](/images/biohack.jpg)
+
