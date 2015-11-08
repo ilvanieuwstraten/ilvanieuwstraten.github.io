@@ -22,10 +22,14 @@ I will need:
 Algae only need little to grow:
 
 **temperature** - Just like us, they are the most comfortable in a environment with temperature of 20 degrees. Room temperature is perfect for them!
+
 **light** - Algae need light to grow. They can grow in sunlight or artificial light as long as it's fairly bright but not too hot, which makes LED lights, CFL, and TL lights suitable for use. To keep the bioluminescent properties of the algaes like it is in nature, you need a certain light cycles. Their bioluminescent will only be activated in the dark. Using a light switch is a way to give the algaes a light schedule; they will synchronise with the light cyclus: shine when the light is turned off. 
+
 **medium** - The nutrient the Algae needs is, we found out, very easy to replace by adding a vitamine pill and some plant nutrion! I used ‘Kruidvat multi A tot Z compleet’, you can use another of course, but check the specific needs of the algae. You can do this here http://sccap.dk/media/marine/2.asp
 A good plant nutrion would be for example Pokon.
+
 **water** - Algae live in the sea. You can simply recreate this by adding sea salt into water. Sea water contains 3,4% salt. This is approximately 35 gram per liter.
+
 **CO2** - the need of carbon dioxide can be provide by the opening in the glass. By putting cotton wool in this opening you will prevent other micro organisms to come into the cultivation process while the carbon dioxide can still enter the environment.
 
 # Formulas
@@ -51,16 +55,16 @@ It’s important to know that if you dilute the algae into the medium you should
 for example, if you have 10 ml algae, you can dilute it in 40 ml medium. This 50 ml you can add in 200 ml of medium. this 250 ml can be add in a liter and so on.
 
 
-![edit 2.jpg](/images/biohack.jpg)
+![edit 2.jpg](/cultivating/images/biohack.jpg)
 
-![edit 1.jpg](/images/biohack.jpg)
+![edit 1.jpg](/cultivating/images/biohack.jpg)
 
-![edit 3.jpg](/images/biohack.jpg)
+![edit 3.jpg](/cultivating/images/biohack.jpg)
 It is hard to grind the pill with a knife. In a second try I used a mortar and pestle which work good to grind it into powder.
 
 # Making the vitamine water
 
-![edit 4.jpg](/images/biohack.jpg)
+![edit 4.jpg](/cultivating/images/biohack.jpg)
 Here I made the vitamine water for the sea water medium; putting the vitamine pill into a liter of tap water. 
 I discovered that the vitamine pill doesn’t fully dissolve into the water. I was considering heating it up to dissolve completely, but this is not necessary; the vitamines are already dissolved, its only the cement of the pill that does not. Also, by heating the water the vitamines will evaporate, and we don’t want that :)
 You can keep the vitamine water for a couple of months in the refrigerator, best by wrapping it in to aluminium foil to protect if from contact with light. 
