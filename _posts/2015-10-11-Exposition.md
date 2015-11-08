@@ -3,14 +3,14 @@ layout: post
 title: Microbes entering the gallery space 
 ---
 
-![Screen Shot 2015-10-23 at 00.29.07.png](/images/biohack.jpg)
+![expo1.png](/images/biohack.jpg)
 
 ### Percieve with Caution - Royal Academy of Arts, The Hague, 13 - 10 -2015
 
 [View exposition online](http://www.perceivewithcaution.com/ )
 
-![Screen Shot 2015-10-23 at 00.29.22.png](/images/biohack.jpg)
+![expo2](/images/biohack.jpg)
 
-![Screen Shot 2015-10-23 at 00.29.38.png](/images/biohack.jpg)
+![expo3](/images/biohack.jpg)
 
 
