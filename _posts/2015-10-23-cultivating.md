@@ -55,16 +55,16 @@ It’s important to know that if you dilute the algae into the medium you should
 for example, if you have 10 ml algae, you can dilute it in 40 ml medium. This 50 ml you can add in 200 ml of medium. this 250 ml can be add in a liter and so on.
 
 
-![edit 2.jpg](/cultivating/images/edit 2.jpg)
+![edit 2.jpg](/images/edit 2.jpg)
 
-![edit 1.jpg](/cultivating/images/edit 1.jpg)
+![edit 1.jpg](/images/edit 1.jpg)
 
-![edit 3.jpg](/cultivating/images/edit 3.jpg)
+![edit 3.jpg](/images/edit 3.jpg)
 It is hard to grind the pill with a knife. In a second try I used a mortar and pestle which work good to grind it into powder.
 
 # Making the vitamine water
 
-![edit 4.jpg](/cultivating/images/edit 4.jpg)
+![edit 4.jpg](/images/edit 4.jpg)
 Here I made the vitamine water for the sea water medium; putting the vitamine pill into a liter of tap water. 
 I discovered that the vitamine pill doesn’t fully dissolve into the water. I was considering heating it up to dissolve completely, but this is not necessary; the vitamines are already dissolved, its only the cement of the pill that does not. Also, by heating the water the vitamines will evaporate, and we don’t want that :)
 You can keep the vitamine water for a couple of months in the refrigerator, best by wrapping it in to aluminium foil to protect if from contact with light. 
