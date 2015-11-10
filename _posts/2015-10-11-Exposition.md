@@ -3,7 +3,7 @@ layout: post
 title: Microbes entering the gallery space 
 ---
 
-![expo1](/images/expo1.jpg)
+![expo1](/images/expo1 copy.jpg)
 
 
 
@@ -19,9 +19,9 @@ title: Microbes entering the gallery space
 
 
 
-![expo3](/images/expo3.jpg)
+![expo3](/images/expo3 copy.jpg)
 
-![expo2](/images/expo2.jpg)
+![expo2](/images/expo2 copy.jpg)
 
 
 
