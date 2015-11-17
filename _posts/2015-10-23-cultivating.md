@@ -3,7 +3,7 @@ layout: post
 title: Cultivating Bioluminescent Algae 
 ---
 
-# How to DIY algae cultivation !
+# DIY algae cultivation !
 
 Algae are very easy to grow. They grow fast. At the BioHack Academy in the Waag Society in Amsterdam I learned how to hack the cultivation of algae
 
