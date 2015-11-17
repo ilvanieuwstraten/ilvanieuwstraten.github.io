@@ -3,7 +3,7 @@ layout: post
 title: Microbes entering the gallery space 
 ---
 
-![expo1](/images/edit 2.png)
+![expo1](/images/expo1.png)
 
 #### Percieve with Caution - Royal Academy of Arts, The Hague, 13 - 10 -2015
 
